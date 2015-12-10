@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include rg_vendas *.css
+recursive-include rg_vendas *.csv
+recursive-include rg_vendas *.html
+recursive-include rg_vendas *.ico
+recursive-include rg_vendas *.js
+recursive-include rg_vendas *.json
+recursive-include rg_vendas *.md
+recursive-include rg_vendas *.png
+recursive-include rg_vendas *.py
+recursive-include rg_vendas *.svg
+recursive-include rg_vendas *.txt
+recursive-exclude rg_vendas *.pyc
