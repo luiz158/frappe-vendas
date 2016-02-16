@@ -33,9 +33,9 @@ Bench é a ferramenta de linha de comando do Frappé. Com ele nós criamos sites
 
 ## ERPNext + Frappé Framework
 
-ERPNext é inteiramente construído com o Frappé. Sua estrutura extensível permite que você personalize para melhor se adequar ao seu fluxo de trabalho.
+[ERPNext][8] é inteiramente construído com o Frappé. Sua estrutura extensível permite que você personalize para melhor se adequar ao seu fluxo de trabalho.
 
-
+[ERPNext Live Demo][8]
 
 ## Sites e ajuda
 
@@ -49,6 +49,11 @@ ERPNext é inteiramente construído com o Frappé. Sua estrutura extensível per
 
 [Forum][7]
 
+
+#### License
+
+MIT
+
 [0]: https://frappe.io/
 [1]: https://mariadb.org/
 [2]: http://redis.io/
@@ -57,9 +62,4 @@ ERPNext é inteiramente construído com o Frappé. Sua estrutura extensível per
 [5]: https://github.com/frappe
 [6]: https://gitter.im/frappe/erpnext
 [7]: https://discuss.erpnext.com/
-
-#### License
-
-MIT
-
-[0]: https://frappe.io/
+[8]: https://demo.erpnext.com/
